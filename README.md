@@ -60,6 +60,11 @@
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(30).pdf" style="text-decoration:none;">The Art of Lisp Programming</a></b></li>  
 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(31).pdf" style="text-decoration:none;">Common LISP: An Interactive Approach</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(32).pdf" style="text-decoration:none;">Sketchy LISP: An Introduction to Functional Programming in Scheme</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(33).pdf" style="text-decoration:none;">The Programming Language LISP: Its Operation and Applications</a></b></li>  
 
 
 
