@@ -36,7 +36,29 @@
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(18).pdf" style="text-decoration:none;">The Visual LISP Developers Bible</a></b></li>  
 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(19).pdf" style="text-decoration:none;">Land of Lisp</a></b></li>  
+   
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(20).pdf" style="text-decoration:none;">Lisp Programming: Lecture Notes </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(21).pdf" style="text-decoration:none;">A Crash Course in LISP</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(22).pdf" style="text-decoration:none;">LISP-STAT: An Object-Oriented Environment for Statistical Computing and Dynamic Graphics</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(23).pdf" style="text-decoration:none;">Loving Common Lisp, or the Savvy Programmer's Secret Weapon</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(24).pdf" style="text-decoration:none;">ANSI Common Lisp</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(25).pdf" style="text-decoration:none;">Computer Algebra with LISP and REDUCE: An Introduction to Computer-aided Pure Mathematics</a></b></li>  
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(26).pdf" style="text-decoration:none;">Getting Started in *Lisp</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(27).pdf" style="text-decoration:none;">Handbook of LISP Functions</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(28).pdf" style="text-decoration:none;">The Evolution of Lisp</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(29).pdf" style="text-decoration:none;">Adventurer's Guide to Interleaf Lisp</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Books-for-Learning-Lisp-Programming/blob/master/lisp(30).pdf" style="text-decoration:none;">The Art of Lisp Programming</a></b></li>  
 
 
 
